@@ -1,11 +1,11 @@
 package src;
 
 /**
- * OOPSBannerApp UC2 - OOPS Banner Display Application
- * <p>
- * This class demonstrates the creation of ASCII art banner using Object-Oriented Programming principles.
- * It extends the basic banner concept by displaying the word "OOPS" in a visual format using asterisks (*)
- * and spaces to form each letter.
+ * OOPSBannerApp UC2 – Banner Display Application
+ *
+ * This program displays the word "OOPS" as a large banner
+ * using asterisks (*) and spaces. Each line of the banner
+ * is printed using individual print statements.
  *
  * @author User
  * @version 2.0
@@ -13,17 +13,12 @@ package src;
 
 public class OopsBannerApp {
     public static void main(String[] args) {
-        String[] banner = {
-                "  ***       ***     ******      *****",
-                "**   **  **     **  **    **   **",
-                "**   **  **     **  **     ** **",
-                "**   **  **     **  **   **    **",
-                "**   **  **     **  *****         ***",
-                "**   **  **     **  **              **",
-                "  ***       ***     **         *****"
-        };
-        for (String line : banner) {
-            System.out.println(line);
-        }
+        System.out.println("  ***      ***     ******    **** ");
+        System.out.println(" **   **  **   **   **   **  **    ");
+        System.out.println(" **   **  **   **   **   **  **    ");
+        System.out.println(" **   **  **   **   ******    **** ");
+        System.out.println(" **   **  **   **   **           **");
+        System.out.println(" **   **  **   **   **           **");
+        System.out.println("  ***      ***      **        **** ");
     }
 }

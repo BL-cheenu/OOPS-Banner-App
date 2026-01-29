@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="676427f3-858f-49d4-add6-8642731142e9" name="Changes" comment="Added OOPS banner display program">
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OopsBannerApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="676427f3-858f-49d4-add6-8642731142e9" name="Changes" comment="Added UC5 OOPS banner display using HashMap" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,26 +17,26 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/oopsBannerApp-uc1" />
+        <entry key="$PROJECT_DIR$" value="feature/oopsBannerApp-uc5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "BL-cheenu"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BL-cheenu&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/BL-cheenu/OOPS-Banner-App.git",
-    "accountId": "a4fa53c6-95ec-4ecb-8e16-bd36c4991be4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BL-cheenu/OOPS-Banner-App.git&quot;,
+    &quot;accountId&quot;: &quot;a4fa53c6-95ec-4ecb-8e16-bd36c4991be4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="38v1eMvUMkLvEfu8Zro8lJFbmVN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,7 +48,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/oopsBannerApp-uc2",
+    "git-widget-placeholder": "feature/oopsBannerApp-uc1",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -74,6 +73,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OopsBannerApp" />
+        <item itemvalue="Application.OopsBannerApp" />
+        <item itemvalue="Application.OopsBannerApp" />
+        <item itemvalue="Application.OopsBannerApp" />
         <item itemvalue="Application.OopsBannerApp" />
       </list>
     </recent_temporary>
@@ -117,12 +120,81 @@
       <option name="project" value="LOCAL" />
       <updated>1769668134716</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added UC1 OOPS banner display program">
+      <option name="closed" value="true" />
+      <created>1769668593963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769668593963</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added UC1 OOPS banner display program">
+      <option name="closed" value="true" />
+      <created>1769668614779</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769668614779</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added UC2 OOPS banner display using ASCII art">
+      <option name="closed" value="true" />
+      <created>1769668770254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769668770254</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added UC3 OOPS banner display using modular approach">
+      <option name="closed" value="true" />
+      <created>1769669867943</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1769669867943</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added UC3 OOPS banner display using modular approach">
+      <option name="closed" value="true" />
+      <created>1769669878712</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1769669878712</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added UC4 OOPS banner display using character pattern mapping">
+      <option name="closed" value="true" />
+      <created>1769670059721</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1769670059721</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added UC5 OOPS banner display using HashMap">
+      <option name="closed" value="true" />
+      <created>1769670530070</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1769670530070</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added UC5 OOPS banner display using HashMap">
+      <option name="closed" value="true" />
+      <created>1769672164593</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1769672164593</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added initial Java project structure with src package" />
     <MESSAGE value="Added OOPS banner display program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added OOPS banner display program" />
+    <MESSAGE value="Added UC1 OOPS banner display program" />
+    <MESSAGE value="Added UC2 OOPS banner display using ASCII art" />
+    <MESSAGE value="Added UC3 OOPS banner display using modular approach" />
+    <MESSAGE value="Added UC4 OOPS banner display using character pattern mapping" />
+    <MESSAGE value="Added UC5 OOPS banner display using HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added UC5 OOPS banner display using HashMap" />
   </component>
 </project>
