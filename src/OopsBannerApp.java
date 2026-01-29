@@ -10,6 +10,7 @@ package src;
  * @author User
  * @version 1.0
  */
+
 public class OopsBannerApp {
     public static void main(String[] args) {
         System.out.println("OOPS");
